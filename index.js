@@ -1,0 +1,3 @@
+fucntion shout(string) {
+  
+}
